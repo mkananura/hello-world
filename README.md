@@ -1,2 +1,4 @@
 # hello-world
-hello world project
+Hello 
+Morris Kananura here
+exploring the beauty of github
